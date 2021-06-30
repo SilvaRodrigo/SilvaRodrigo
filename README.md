@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilvaRodrigo
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Big Data, Data Sience
+- 🌱 I’m currently learning Python, Big Data, Data Science
 - 💞️ I’m looking to collaborate on projects Python
 - 📫 How to reach me @rodrigol_silva
 
